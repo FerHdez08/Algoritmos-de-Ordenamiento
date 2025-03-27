@@ -30,5 +30,5 @@ Al final se calculan los promedios por método y por tamaño de los conjuntos de
 
 ## Gráfica comparativa de los tiempos promedios de ejecución de los 7 algoritmos implementados
 
-![Gráfica](https://github.com/FerHdez08/Algoritmos-de-Ordenamiento/raw/main/img/imgAlg.png)
+![7 Métodos](7Metodos.png)
 

@@ -23,9 +23,23 @@ A cada conjunto de dimensión 10 al 1000 se le aplica un método de ordenación 
 Al final se calculan los promedios por método y por tamaño de los conjuntos de datos a ordenar, a su vez los datos son enviados a un archivo csv para cada uno de los métodos.
 
 ## Requisitos del sistema para ejecutar el código
+ - C++
+ - g++
 
 ## Compilación y ejecución del código
-
+***Clonación:***
+  ```bash
+   git clone https://github.com/FerHdez08/Algoritmos-de-Ordenamiento.git
+   cd Algoritmos-de-Ordenamiento
+```
+***Compilación:***
+```bash
+   g++ -o Algoritmos Prueba_6_1_0.cpp
+```
+***Ejecución***
+```bash
+   Prueba_6_1_0.exe
+```
 ## Descripción de los algoritmos implementados
 
 ## Gráfica comparativa de los tiempos promedios de ejecución de los algoritmos implementados

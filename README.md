@@ -22,26 +22,40 @@ Los tamaños son:
 A cada conjunto de dimensión 10 al 1000 se le aplica un método de ordenación y se registran los tiempos, lo cual se hace con los 7 métodos de ordenación, es decir, que después de completar el primer vector de tiempos para todos los métodos, procedemos a generar 100 nuevos conjuntos de números aleatorios en esta segunda repetición de las mil veces, para volver a aplicarle los 7 métodos y de manera sucesiva se realiza este procedimiento hasta completar 100 veces. 
 Al final se calculan los promedios por método y por tamaño de los conjuntos de datos a ordenar, a su vez los datos son enviados a un archivo csv para cada uno de los métodos.
 
+---
 ## Requisitos del sistema para ejecutar el código
  - C++
  - g++
 
 ## Compilación y ejecución del código
+
+
+Introducir en la terminal:
+
 ***Clonación:***
   ```bash
    git clone https://github.com/FerHdez08/Algoritmos-de-Ordenamiento.git
+```
+***Cambio de directorio:***
+```bash
    cd Algoritmos-de-Ordenamiento
 ```
 ***Compilación:***
 ```bash
    g++ -o Algoritmos Algoritmos.cpp
 ```
-***Ejecución***
+***Ejecución:***
 ```bash
-   Algoritmos.exe
+   Algoritmos
 ```
+*o en su defecto, si no es reconocido, ejecute:*
+```bash
+   .\Algoritmos
+```
+---
 ## Descripción de los algoritmos implementados
 
+---
 ## Gráfica comparativa de los tiempos promedios de ejecución de los algoritmos implementados
 
 La imagen a continuación es la comparación de los tiempos promedios a través de los tamaños de los conjuntos, reflejados en cada uno de los métodos de ordenación:

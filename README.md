@@ -6,7 +6,7 @@ Los métodos de ordenación utilizados son:
   - Inserción
   - Burbuja Optimizado
   - Selección
-  - Mezcla Sort
+  - Mezcla
   - Quick Sort
   - Montículos
   - Shell
@@ -70,7 +70,7 @@ Introducir en la terminal:
    El algoritmo busca el elemento más pequeño en el arreglo y lo coloca en la primera posición.<br>
    Luego, repite el proceso para el resto del arreglo, buscando el siguiente elemento más pequeño y colocándolo en la posición correcta.
 
- - **Mezcla Sort:**
+ - **Mezcla:**
    El arreglo se divide recursivamente en dos mitades hasta que cada subarreglo tiene un solo elemento. <br>
    Esto se hace dividiendo el arreglo en la mitad central hasta llegar a los casos base, es decir, arreglos de tamaño 1.<br>
    Consiste en que una vez que el arreglo está dividido en subarreglos de un solo elemento, se comienza a mezclar o combinar esos subarreglos de manera ordenada.<br>
@@ -108,7 +108,7 @@ Introducir en la terminal:
    Utiliza brechas o gaps para ordenar elementos que están más separados al principio y luego se van reduciendo las brechass hasta llegar a una ordenación por inserción clásica.<br>
 
 
-| Algoritmo   |   Orden  |  
+| Algoritmo   |   Orden Promedio |  
 |:------------|:--------:|
 | Inserción   | O( n² )  | 
 | Burbuja     | O( n² )  | 

@@ -11,7 +11,7 @@ Los métodos de ordenación utilizados son:
   - Montículos
   - Shell
 
-El programa consiste en ordenar cojuntos de datos con los métodos mencionados previamente, el cual facilita la generación de elementos gráficos que auxilien a la comprensión acerca de los tiempos promedio que cada algortimo requiere, con el apoyo de archivos .csv donde se almacenan, por lo que esto da resultados variando la cantidad de datos a ordenar y a su vez el método escogido , lo que produce una diversidad en los promedios de los tiempos y a su vez los datos de los conjuntos ordenados son generados de manera aleatoria, garatizando resultados más imparciales.
+El programa consiste en ordenar conjuntos de datos con los métodos mencionados previamente, el cual facilita la generación de elementos gráficos que auxilien a la comprensión acerca de los tiempos promedio que cada algortimo requiere, con el apoyo de archivos .csv donde se almacenan, por lo que esto da resultados variando la cantidad de datos a ordenar y a su vez el método escogido , lo que produce una diversidad en los promedios de los tiempos y a su vez los datos de los conjuntos ordenados son generados de manera aleatoria, garatizando resultados más imparciales.
 
 El código inicializa con un procedimiento que se repitirá mil veces, donde en cada ocasión se generan 100 conjuntos de diferentes tamaños.
 

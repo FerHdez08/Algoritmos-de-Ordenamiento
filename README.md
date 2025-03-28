@@ -113,7 +113,7 @@ Introducir en la terminal:
 | Inserción   | O( n² )  | 
 | Burbuja     | O( n² )  | 
 | Selección   |  O( n² ) |
-| Mezcla Sort |O(n log n)|
+| Mezcla      |O(n log n)|
 | Quick Sort  |O(n log n)|
 | Montículos  |O(n log n)|
 | Shell       |O(n log n)|

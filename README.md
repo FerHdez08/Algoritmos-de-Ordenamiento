@@ -64,7 +64,7 @@ La imagen a continuación es la comparación de los tiempos promedios a través 
 
 En la gráfica, podemos observar que los primeros tres métodos de ordenación (inserción, burbuja y selección) presentan una curva claramente mayor a las otras, lo que resalta el hecho de que son de orden cuadrático en los tiempos de ejecución. En contraste, los otros cuatro algoritmos muestran un crecimiento significativamente más lento, lo que incluso podría interpretarse como un comportamiento casi lineal en comparación. Para una mejor visualización de estos métodos más eficientes, generaremos una gráfica adicional enfocada exclusivamente en ellos, permitiendo una comparación más detallada de sus comportamientos.
 
-![4 Métodos](4Metodos.png)
+![4_Métodos](4_Metodos.png)
 
 En esta gráfica podemos observar que los algoritmos no presentan un crecimiento lineal en sus tiempos de ejecución, lo que indica que su orden no es de n, sin embargo, a diferencia de los primeros tres métodos (*inserción, burbuja y selección*), su rendimiento es considerablemente mejor, lo cual lleva a deducir que los ordenamientos de los tiempos promedios de estos 4 algoritmos no son de orden cuadrático, por el contrario sus tiempos promedios reflejan el hecho de que poseen un orden logarítmico.
 

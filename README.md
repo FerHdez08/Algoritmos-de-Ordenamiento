@@ -34,11 +34,11 @@ Al final se calculan los promedios por método y por tamaño de los conjuntos de
 ```
 ***Compilación:***
 ```bash
-   g++ -o Algoritmos Prueba_6_1_0.cpp
+   g++ -o Algoritmos Algoritmos.cpp
 ```
 ***Ejecución***
 ```bash
-   Prueba_6_1_0.exe
+   Algoritmos.exe
 ```
 ## Descripción de los algoritmos implementados
 
